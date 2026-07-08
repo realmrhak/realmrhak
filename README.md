@@ -1,229 +1,287 @@
-<!-- ===================================================== -->
-<!--                 HAROON AMEER KHAN                      -->
-<!--          Premium GitHub Profile README                -->
-<!--                    PART 1 / 4                         -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,30&text=Haroon%20Ameer%20Khan&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20•%20Backend%20AI%20Engineer&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,50:6D28D9,100:C026D3&height=230&section=header&text=Haroon%20Ameer%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Backend%20AI%20Engineer&descAlignY=58&descAlign=50&descColor=E9D8FD"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Backend+AI+Engineer+%40+FlyRank+AI;TypeScript+%7C+React.js+%7C+Node.js+%7C+MongoDB;Building+Real-Time%2C+AI-Integrated+Web+Apps" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=950&lines=Full+Stack+MERN+Developer;Backend+AI+Engineer;Building+Scalable+Web+Applications;Designing+RESTful+APIs;Developing+AI-Powered+Backend+Systems;React.js+%7C+Node.js+%7C+MongoDB+%7C+Express.js"/>
+<img src="https://img.shields.io/badge/BSc%20Computer%20Science-Govt%20College%20University%2C%20Faisalabad-6D28D9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=2E0854"/>
+<img src="https://img.shields.io/badge/📍-Lahore%2C%20Pakistan-C026D3?style=flat-square&labelColor=2E0854"/>
 
 <br><br>
 
-[![Education](https://img.shields.io/badge/GCUF-Bachelor%20of%20Computer%20Science-6D28D9?style=flat-square)](https://www.gcuf.edu.pk/)
-[![Location](https://img.shields.io/badge/Lahore-Pakistan-4F46E5?style=flat-square)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://haroon-ameer-khan-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haroon%20Ameer%20Khan-4F46E5?style=flat-square&logo=linkedin)](https://linkedin.com/in/realmrhak)
-[![Email](https://img.shields.io/badge/Email-Contact-C026D3?style=flat-square&logo=gmail&logoColor=white)](mailto:realmrhak07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-realmrhak-6D28D9?style=flat-square&logo=github)](https://github.com/realmrhak)
+<a href="https://haroon-ameer-khan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2E0854?style=flat-square&logo=vercel&logoColor=white&labelColor=6D28D9"/></a>
+<a href="https://linkedin.com/in/realmrhak"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white&labelColor=2E0854"/></a>
+<a href="mailto:realmrhak07@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=flat-square&logo=gmail&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://github.com/realmrhak"><img src="https://img.shields.io/badge/GitHub-C026D3?style=flat-square&logo=github&logoColor=white&labelColor=2E0854"/></a>
 
-<br>
+<br><br>
 
-![](https://komarev.com/ghpvc/?username=realmrhak&style=flat-square&color=6D28D9)
-
-![](https://img.shields.io/github/followers/realmrhak?style=flat-square&color=6D28D9&label=Followers)
-
-![](https://img.shields.io/github/stars/realmrhak?affiliations=OWNER&style=flat-square&color=8B5CF6&label=Stars)
+<img src="https://komarev.com/ghpvc/?username=realmrhak&color=A855F7&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/realmrhak?style=flat-square&color=6D28D9&label=Followers&labelColor=2E0854"/>
+<img src="https://img.shields.io/github/stars/realmrhak?style=flat-square&color=C026D3&label=Stars&labelColor=2E0854"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
-# About Me
+### 🧠 About Me
 
-I'm **Haroon Ameer Khan**, a **Full Stack MERN Developer** with a strong focus on **backend engineering**, scalable API development, and AI-powered web applications.
+I'm a **Full Stack MERN Developer** with internship experience spanning **backend AI engineering** and **full-stack web development**, plus five independently built full-stack projects shipped between November 2025 and June 2026 — progressing from AI API integration to a multi-role ERP system.
 
-Currently working as a **Backend AI Engineer Intern at FlyRank AI**, I contribute to backend services, authentication systems, REST API architecture, and AI workflow integrations using modern JavaScript technologies.
+- 🔭 Currently working as a **Backend AI Engineer Intern @ FlyRank AI**, building backend support for AI-powered automation workflows and data pipelines.
+- ⚡ Skilled in building **real-time, type-safe web applications** with React.js, Node.js, Express.js, TypeScript, and MongoDB.
+- 🔐 Hands-on with **JWT authentication, role-based access control, WebSockets (Socket.io)**, and third-party API integration.
+- 🎯 Product-engineering mindset — I care about schema design, security patterns, and system scalability, not just shipping features.
+- 🌱 **Open to:** Full-Stack / AI-Integrated Developer roles, backend engineering opportunities, and open-source collaboration.
 
-My engineering approach emphasizes:
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
-- Clean architecture
-- Maintainable backend systems
-- Secure authentication
-- Scalable REST APIs
-- Real-time applications
-- AI integration
-- Database optimization
-- Product-focused software engineering
+### 🛠️ Tech Stack
 
-I enjoy building applications that solve practical problems—from enterprise ERP systems and collaborative platforms to AI-assisted learning solutions and real-time multiplayer applications.
+**Languages**
 
----
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark"/>
 
-## Professional Highlights
+**Frontend**
 
-✔ Backend-focused Full Stack Engineer
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&theme=dark"/>
 
-✔ REST API Design
+**Backend & Databases**
 
-✔ Authentication & Authorization
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socketio&theme=dark"/>
 
-✔ MongoDB Schema Design
+**Tools & Deployment**
 
-✔ AI Service Integration
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark"/>
 
-✔ Real-Time Communication using Socket.io
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
-✔ Modern React Development
-
-✔ Team Collaboration in Agile Environments
-
-✔ Product Engineering Mindset
-
----
-
-## AI Engineering Focus
-
-My recent work has expanded into AI-powered backend systems where I integrate modern LLM services into production-ready applications.
-
-Current areas include:
-
-- OpenRouter API Integration
-- OpenAI Models
-- DeepSeek Models
-- NVIDIA AI Models
-- Prompt Engineering
-- PDF Processing Pipelines
-- AI Quiz Generation
-- AI Summary Generation
-- Backend Automation Workflows
-
----
-
-## What I'm Looking For
-
-I'm interested in opportunities involving:
-
-- Backend Engineering
-- AI Engineering
-- Full Stack Development
-- SaaS Products
-- Enterprise Software
-- Cloud-based Applications
-- Product Engineering Teams
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css"/>
-
-</p>
-
----
-
-## Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap"/>
-
-</p>
-
-**Core Technologies**
-
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- Redux
-- Context API
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-
----
-
-## Backend & Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman"/>
-
-</p>
-
-**Backend**
-
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Socket.io
-- WebSockets
-- Nodemailer
-
-**Database**
-
-- MongoDB
-- Mongoose
-- Schema Design
-
----
-
-## AI & Integration
-
-| Technology | Usage |
-|------------|-------|
-| OpenRouter API | LLM Integration |
-| OpenAI | AI Features |
-| DeepSeek | AI Assistance |
-| NVIDIA Models | AI Services |
-| PDF Processing | Document Intelligence |
-
----
-
-## Tools & Deployment
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render"/>
-
-</p>
-
-**Development**
-
-- Git
-- GitHub
-- Postman
-- Agile
-- Scrum
-- Vercel
-- Render
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---------|------------|---------|
-| AI API Integration | Advanced | OpenRouter, OpenAI, DeepSeek, NVIDIA |
-| Backend AI Services | Advanced | AI endpoint development and workflow integration |
-| Prompt Engineering | Intermediate | Structured prompts for production APIs |
-| PDF Intelligence | Advanced | Parsing, summarization and quiz generation |
-| Quiz Automation | Advanced | AI-generated assessments |
-| REST Architecture | Advanced | AI-ready scalable backend services |
-| Authentication | Advanced | JWT-based secure authentication |
-| MongoDB Design | Advanced | Optimized schemas and queries |
-| Node.js APIs | Advanced | Production-ready Express applications |
-
----
+### 🤖 AI / ML Expertise
 
 <div align="center">
 
-### Engineering Philosophy
-
-> **Build software that is scalable, maintainable, secure, and designed for real-world users—not just demonstrations.**
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **API Integration** | ⭐⭐⭐⭐ | OpenRouter API integration to access OpenAI, DeepSeek & NVIDIA models |
+| **AI-Powered Backend Workflows** | ⭐⭐⭐⭐ | Building backend automation pipelines that consume AI model outputs for production features |
+| **Document Intelligence** | ⭐⭐⭐ | PDF-to-structured-content pipeline (summaries, notes, auto-generated quizzes) |
+| **Evaluation Engines** | ⭐⭐⭐ | Automated answer checking & score calculation systems |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
-<!-- END PART 1 -->
+### 🚀 Featured Projects
+
+<details>
+<summary><b>🎓 EduCore ERP — University Management Portal</b></summary>
+<br>
+
+Multi-portal ERP system with three role-based portals (Super Admin, Teacher, Student), the most complex of five solo projects — built to stress-test system complexity at scale.
+
+| | |
+|---|---|
+| **Stack** | React.js, Node.js, Express.js, MongoDB, Socket.io, JWT, Tailwind CSS |
+| **Scale** | 3 role-based portals with dedicated dashboards & access controls |
+| **Performance** | Bulk CSV student import, automatic semester promotion |
+| **Security** | JWT auth, timetable-validated attendance, role-based access control |
+| **Impact** | Broadcast notification system + auto-evaluation quiz engine |
+| **Repository** | [github.com/realmrhak](https://github.com/realmrhak) |
+
+Built as a personal project to validate architecture decisions for fee/challan management, bulk data import, and multi-role access control at scale — deployed on Vercel & Render for demonstration.
+
+</details>
+
+<details>
+<summary><b>📝 NexNote — Real-Time Collaborative Notes & Team Workspace</b></summary>
+<br>
+
+Full-stack notes management system with CRUD functionality, folders, and real-time team collaboration.
+
+| | |
+|---|---|
+| **Stack** | React.js, Node.js, Express.js, MongoDB, Socket.io, JWT, Nodemailer |
+| **Scale** | Team-based workspace with instant multi-client sync |
+| **Performance** | React Query caching + lazy loading |
+| **Security** | JWT auth with refresh token rotation |
+| **Impact** | Real-time role promotion (Member → Admin) broadcast instantly via WebSockets |
+| **Repository** | [github.com/realmrhak](https://github.com/realmrhak) |
+
+Implemented an email-based team invite system (Nodemailer/SMTP) alongside real-time sync — deployed on Vercel + Render.
+
+</details>
+
+<details>
+<summary><b>🛒 Nexra — Full-Stack E-Commerce Application</b></summary>
+<br>
+
+Backend-focused e-commerce platform with product listings, cart management, and order placement.
+
+| | |
+|---|---|
+| **Stack** | React.js, Node.js, Express.js, MongoDB, JWT, Redux, Context API |
+| **Scale** | Full product → cart → order pipeline |
+| **Performance** | Optimized MongoDB queries for product search & order history |
+| **Security** | JWT authentication across all protected routes |
+| **Impact** | Admin dashboard for managing products, users & order workflows |
+| **Repository** | [github.com/realmrhak](https://github.com/realmrhak) |
+
+Focused on backend architecture — REST API design, global state management with Redux/Context API, and query optimization.
+
+</details>
+
+<details>
+<summary><b>🎮 EStudy — Real-Time Multiplayer Quiz Platform</b></summary>
+<br>
+
+Real-time quiz platform with live multiplayer sessions, tested with ~10–15 concurrent users.
+
+| | |
+|---|---|
+| **Stack** | React.js, Node.js, Express.js, MongoDB, Socket.io, JWT, Context API |
+| **Scale** | ~10–15 concurrent users per live session (tested) |
+| **Performance** | Difficulty-based dynamic question engine |
+| **Security** | Role-based access control + admin dashboard |
+| **Impact** | Data visualizations for performance analytics & session tracking |
+| **Repository** | [github.com/realmrhak](https://github.com/realmrhak) |
+
+Established real-time session architecture patterns using Socket.io, later reused across subsequent projects.
+
+</details>
+
+<details>
+<summary><b>🧠 Nexora AI — AI-Integrated Learning Assistant</b></summary>
+<br>
+
+First full-stack AI project — converts uploaded PDFs into structured summaries, notes, and auto-generated quizzes.
+
+| | |
+|---|---|
+| **Stack** | React.js, Node.js, Express.js, MongoDB, JWT, OpenRouter API (OpenAI, DeepSeek, NVIDIA) |
+| **Scale** | Multi-model AI routing via OpenRouter |
+| **Performance** | Automated quiz evaluation engine with score calculation |
+| **Security** | JWT-authenticated user uploads & content storage |
+| **Impact** | Established the API integration & schema design patterns reused in later projects |
+| **Repository** | [github.com/realmrhak](https://github.com/realmrhak) |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
+
+### 💼 Experience
+
+**Backend AI Engineer Intern** · FlyRank AI
+`Jun 2026 – Present | Lahore, Pakistan (Remote)`
+
+Developing core backend features and AI-powered automation workflows.
+
+- Developed authentication, user management & REST API endpoints using Node.js and Express.
+- Built backend support for AI automation workflows and data pipelines, integrating AI model outputs into live features.
+- Implemented backend endpoints for AI services, contributing to architecture & design discussions with senior engineers.
+
+`Node.js` `Express.js` `REST APIs` `AI Integration`
+
+<br>
+
+**Full Stack Developer Intern** · MJ Programmers
+`Jan 2026 – Apr 2026 | Lahore, Pakistan (On-site)`
+
+Frontend-focused role building reusable UI components in an agile team.
+
+- Built 8–10 reusable React.js UI components across multiple application sections.
+- Reduced feature development time by 30% (sprint velocity) via reusable components with RESTful API integration.
+- Collaborated within a team of 5 developers + 1 designer through standups, sprint planning & code reviews.
+- Improved frontend performance through component & UI structure optimization.
+
+`React.js` `RESTful APIs` `Agile/Scrum` `UI Optimization`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
+
+### 🏆 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/realmrhak"><img src="https://img.shields.io/badge/LeetCode-2E0854?style=flat-square&logo=leetcode&logoColor=white&labelColor=6D28D9"/></a>
+<a href="https://www.hackerrank.com/realmrhak07"><img src="https://img.shields.io/badge/HackerRank-C026D3?style=flat-square&logo=hackerrank&logoColor=white&labelColor=2E0854"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=realmrhak&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C026D3&text_color=c9d1d9&border_color=6D28D9"/>
+<img src="https://streak-stats.demolab.com?user=realmrhak&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=realmrhak&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&border_color=6D28D9"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
+
+### 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=realmrhak&theme=algolia&no-frame=true&margin-w=10&column=7"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=realmrhak&bg_color=0D1117&color=A855F7&line=C026D3&point=ffffff&area=true&area_color=6D28D9"/>
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
+
+### 🎯 Current Focus
+
+```yaml
+Learning:
+  - TypeScript (typed React & Node.js codebases)
+  - Advanced JavaScript concepts (Closures, Scope Chain, Lexical Scoping)
+  - React.js lifecycle & advanced patterns
+
+Building:
+  - Backend AI automation workflows @ FlyRank AI
+
+Exploring:
+  - AI/ML integration in production backend systems
+  - Type-safe full-stack architecture with TypeScript
+
+Open To:
+  - Full-Stack Developer roles
+  - AI-Integrated Developer roles
+  - Backend Engineering opportunities
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
+
+### 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:realmrhak07@gmail.com"><img src="https://img.shields.io/badge/Gmail-2E0854?style=flat-square&logo=gmail&logoColor=white&labelColor=6D28D9"/></a>
+<a href="https://linkedin.com/in/realmrhak"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://github.com/realmrhak"><img src="https://img.shields.io/badge/GitHub-C026D3?style=flat-square&logo=github&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://haroon-ameer-khan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=flat-square&logo=vercel&logoColor=white&labelColor=2E0854"/></a>
+
+</div>
+
+<div align="center">
+<br>
+<i>"Code with purpose, ship with confidence."</i>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:6D28D9,100:2E0854&height=120&section=footer"/>
+</div>
