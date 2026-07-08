@@ -1,54 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:6f42c1,100:4b0082&height=220&section=header&text=Haroon%20Ameer%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Backend%20AI%20Engineer&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0854,50:6D28D9,100:C026D3&height=230&section=header&text=Haroon%20Ameer%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20Backend%20AI%20Engineer&descAlignY=58&descAlign=50&descColor=E9D8FD"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Backend+AI+Engineer+%40+FlyRank+AI;Building+Real-Time+Web+Applications;React.js+%7C+Node.js+%7C+MongoDB+%7C+Socket.io" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Backend+AI+Engineer+%40+FlyRank+AI;TypeScript+%7C+React.js+%7C+Node.js+%7C+MongoDB;Building+Real-Time%2C+AI-Integrated+Web+Apps" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/BSc%20Computer%20Science-Govt%20College%20University%2C%20Faisalabad-6a0dad?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/📍-Lahore%2C%20Pakistan-6f42c1?style=flat-square"/>
+<img src="https://img.shields.io/badge/BSc%20Computer%20Science-Govt%20College%20University%2C%20Faisalabad-6D28D9?style=flat-square&logo=googlescholar&logoColor=white&labelColor=2E0854"/>
+<img src="https://img.shields.io/badge/📍-Lahore%2C%20Pakistan-C026D3?style=flat-square&labelColor=2E0854"/>
 
-<a href="https://haroon-ameer-khan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/realmrhak"><img src="https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:realmrhak07@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/realmrhak"><img src="https://img.shields.io/badge/GitHub-2E0854?style=for-the-badge&logo=github&logoColor=white"/></a>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=realmrhak&color=6a0dad&style=flat-square&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/realmrhak?style=flat-square&color=6f42c1&label=Followers"/>
-<img src="https://img.shields.io/github/stars/realmrhak?style=flat-square&color=8A2BE2&label=Stars"/>
+<a href="https://haroon-ameer-khan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2E0854?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6D28D9"/></a>
+<a href="https://linkedin.com/in/realmrhak"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2E0854"/></a>
+<a href="mailto:realmrhak07@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://github.com/realmrhak"><img src="https://img.shields.io/badge/GitHub-C026D3?style=for-the-badge&logo=github&logoColor=white&labelColor=2E0854"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=realmrhak&color=A855F7&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/realmrhak?style=flat-square&color=6D28D9&label=Followers&labelColor=2E0854"/>
+<img src="https://img.shields.io/github/stars/realmrhak?style=flat-square&color=C026D3&label=Stars&labelColor=2E0854"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 🧠 About Me
 
 I'm a **Full Stack MERN Developer** with internship experience spanning **backend AI engineering** and **full-stack web development**, plus five independently built full-stack projects shipped between November 2025 and June 2026 — progressing from AI API integration to a multi-role ERP system.
 
 - 🔭 Currently working as a **Backend AI Engineer Intern @ FlyRank AI**, building backend support for AI-powered automation workflows and data pipelines.
-- ⚡ Skilled in building **real-time web applications** with React.js, Node.js, Express.js, and MongoDB.
+- ⚡ Skilled in building **real-time, type-safe web applications** with React.js, Node.js, Express.js, TypeScript, and MongoDB.
 - 🔐 Hands-on with **JWT authentication, role-based access control, WebSockets (Socket.io)**, and third-party API integration.
 - 🎯 Product-engineering mindset — I care about schema design, security patterns, and system scalability, not just shipping features.
 - 🌱 **Open to:** Full-Stack / AI-Integrated Developer roles, backend engineering opportunities, and open-source collaboration.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 🛠️ Tech Stack
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark"/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark"/>
 
 **Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&theme=dark"/>
 
 **Backend & Databases**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,socketio&theme=dark"/>
 
 **Tools & Deployment**
+
 <img src="https://skillicons.dev/icons?i=git,github,vercel,postman&theme=dark"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 🤖 AI / ML Expertise
+
+<div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -57,7 +67,9 @@ I'm a **Full Stack MERN Developer** with internship experience spanning **backen
 | **Document Intelligence** | ⭐⭐⭐ | PDF-to-structured-content pipeline (summaries, notes, auto-generated quizzes) |
 | **Evaluation Engines** | ⭐⭐⭐ | Automated answer checking & score calculation systems |
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 🚀 Featured Projects
 
@@ -154,7 +166,7 @@ First full-stack AI project — converts uploaded PDFs into structured summaries
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 💼 Experience
 
@@ -183,62 +195,61 @@ Frontend-focused role building reusable UI components in an agile team.
 
 `React.js` `RESTful APIs` `Agile/Scrum` `UI Optimization`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 🏆 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/realmrhak"><img src="https://img.shields.io/badge/LeetCode-2E0854?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/realmrhak07"><img src="https://img.shields.io/badge/HackerRank-4B0082?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://leetcode.com/realmrhak"><img src="https://img.shields.io/badge/LeetCode-2E0854?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=6D28D9"/></a>
+<a href="https://www.hackerrank.com/realmrhak07"><img src="https://img.shields.io/badge/HackerRank-C026D3?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2E0854"/></a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=realmrhak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=6f42c1&text_color=c9d1d9"/>
-<img src="https://streak-stats.demolab.com?user=realmrhak&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=6f42c1&currStreakLabel=8A2BE2"/>
+<img src="https://github-readme-stats.vercel.app/api?username=realmrhak&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C026D3&text_color=c9d1d9&border_color=6D28D9"/>
+<img src="https://streak-stats.demolab.com?user=realmrhak&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=A855F7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmrhak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realmrhak&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&border_color=6D28D9"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=realmrhak&theme=radical&no-frame=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=realmrhak&theme=algolia&no-frame=true&margin-w=10&column=7"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=realmrhak&theme=redical&bg_color=0D1117&color=8A2BE2&line=6f42c1&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=realmrhak&bg_color=0D1117&color=A855F7&line=C026D3&point=ffffff&area=true&area_color=6D28D9"/>
 
 </div>
-
----
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 🎯 Current Focus
 
 ```yaml
 Learning:
+  - TypeScript (typed React & Node.js codebases)
   - Advanced JavaScript concepts (Closures, Scope Chain, Lexical Scoping)
   - React.js lifecycle & advanced patterns
 
@@ -247,6 +258,7 @@ Building:
 
 Exploring:
   - AI/ML integration in production backend systems
+  - Type-safe full-stack architecture with TypeScript
 
 Open To:
   - Full-Stack Developer roles
@@ -254,23 +266,22 @@ Open To:
   - Backend Engineering opportunities
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,100:C026D3&height=3&section=header"/>
 
 ### 📫 Connect With Me
 
 <div align="center">
 
-<a href="mailto:realmrhak07@gmail.com"><img src="https://img.shields.io/badge/Gmail-6a0dad?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/realmrhak"><img src="https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/realmrhak"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://haroon-ameer-khan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2E0854?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:realmrhak07@gmail.com"><img src="https://img.shields.io/badge/Gmail-2E0854?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6D28D9"/></a>
+<a href="https://linkedin.com/in/realmrhak"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://github.com/realmrhak"><img src="https://img.shields.io/badge/GitHub-C026D3?style=for-the-badge&logo=github&logoColor=white&labelColor=2E0854"/></a>
+<a href="https://haroon-ameer-khan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2E0854"/></a>
 
 </div>
 
----
-
 <div align="center">
+<br>
 <i>"Code with purpose, ship with confidence."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:6f42c1,100:6a0dad&height=120&section=footer"/>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C026D3,50:6D28D9,100:2E0854&height=120&section=footer"/>
 </div>
